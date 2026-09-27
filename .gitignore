@@ -1,0 +1,8 @@
+# Local environment config
+app/config/config.php
+app/config/*.local.php
+.env
+
+# Common local artifacts
+.DS_Store
+Thumbs.db

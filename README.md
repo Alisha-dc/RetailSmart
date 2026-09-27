@@ -85,10 +85,10 @@ http://localhost:82/RetailSmart/public/
 
 ## Default Admin Login
 
-The app includes a default admin account for testing:
+Admin credentials should be created during setup or by importing the seed data from the database script. Use a strong password and keep local credentials out of the public repository.
 
-- Email: alishadangi95@gmail.com
-- Password: admin123
+- Email: use a secure admin email for your local environment
+- Password: set a strong password during setup
 
 ## Customer Login
 
